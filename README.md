@@ -1,2 +1,2 @@
-# inco
+# INCO
 "InnovatingConsciousness" 
